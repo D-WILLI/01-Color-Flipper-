@@ -1,0 +1,28 @@
+body{
+    background-color: red;
+}
+
+main{
+    text-align: center;
+    margin: 20% 10%; 
+    padding: 1%;
+    color: white;
+
+    font-size: 150%;
+    border-radius: 25px;
+}
+
+.text{
+    background-color: rgb(34, 34, 34); 
+    padding-bottom: -1%; 
+    padding-top: -1%; 
+    margin: 0% 20%;
+
+}
+
+button{
+text-align: center;
+background-color: red;
+border-radius: 3px;
+border: bold solid white 3px;
+}
